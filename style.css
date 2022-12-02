@@ -1,0 +1,16 @@
+/* body {
+    min-width: 460px;
+} */
+
+.title {
+    font-size: 1em;
+}
+
+h1.page-title{
+    font-size: 3em;
+}
+
+.p1-winner,
+.p2-winner {
+    display: none;
+}
